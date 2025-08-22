@@ -2,8 +2,9 @@ import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Auth from "./components/Auth/auth";
 import Landing from "./components/Landing/Landing";
-import LetterWordRecognitionQuiz from "./components/Dyslexicquiz/Quiz/LetterWordRecognitionQuiz";
 import DyslexicQuizPage from "./components/Dyslexicquiz/Dyslexicquiz";
+import LetterWordRecognitionQuiz from "./components/Dyslexicquiz/Quiz/Section1/LetterWordRecognitionQuiz";
+import PhonologicalSkills from "./components/Dyslexicquiz/Quiz/Section2/PhonologicalSkills";
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
         <Route path="/" element={<Auth/>} />
         <Route path="/landing" element={<Landing />} />
         <Route path="/dyslexicquiz" element={<DyslexicQuizPage />} />
-        <Route path="/letterwordrecognition" element={<LetterWordRecognitionQuiz />} />
+        <Route path="/letterwordrecognition" element={<LetterWordRecognitionQuiz/>} />
+        <Route path="/phonologicalskills" element={<PhonologicalSkills/>} />
         {/* add other quiz sections here */}
       </Routes>
     </BrowserRouter>
