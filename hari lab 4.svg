@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800" height="400"
+     viewBox="0 0 800 400"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Generic Mastercard-style logo</title>
+  <desc id="desc">Two overlapping circles with a distinct intersection — editable SVG for assignments (not the official Mastercard trademark).</desc>
+
+  <defs>
+    <!-- Use userSpaceOnUse so coordinates match the main viewport -->
+    <clipPath id="clip-left" clipPathUnits="userSpaceOnUse">
+      <!-- left circle used as clip shape -->
+      <circle cx="300" cy="200" r="120"/>
+    </clipPath>
+
+    <style type="text/css"><![CDATA[
+      .left { fill: #EB001B; }
+      .right { fill: #F79E1B; }
+      .middle { fill: #FF5F00; } /* overlap color */
+      .word { font-family: "Helvetica Neue", Arial, sans-serif; font-weight: 700; font-size: 48px; fill: #111111; letter-spacing: 1px; }
+      .meta { font-family: Arial, sans-serif; font-size: 12px; fill: #333333; opacity: 0.7; }
+    ]]></style>
+  </defs>
+
+  <!-- centered group to make scaling simple -->
+  <g id="logo" transform="translate(40,0)">
+    <!-- left and right circles -->
+    <circle class="left"  cx="300" cy="200" r="120"/>
+    <circle class="right" cx="460" cy="200" r="120"/>
+
+    <!-- intersection: draw the right circle but clip it to the left circle area -->
+    <circle class="middle" cx="460" cy="200" r="120" clip-path="url(#clip-left)"/>
+
+    <!-- optional thin outline (editable) -->
+    <g opacity="0.06">
+      <circle cx="300" cy="200" r="120" fill="none" stroke="#000" stroke-width="2"/>
+      <circle cx="460" cy="200" r="120" fill="none" stroke="#000" stroke-width="2"/>
+    </g>
+
+    <!-- wordmark (editable text) -->
+    <text class="word" x="380" y="360" text-anchor="middle">MASTERCARD</text>
+    
+  </g>
+</svg>

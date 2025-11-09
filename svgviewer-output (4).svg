@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 800 1100"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="svgviewer-output (4).svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.75811588"
+     inkscape:cx="397.69646"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9"
+     showgrid="false" />
+  <!-- Background -->
+  <defs
+     id="defs2">
+    <linearGradient
+       id="bgGradient"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="938.08315"
+       gradientTransform="matrix(0.66997351,0,0,0.92121354,95.726039,124.1447)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#A7E9AF"
+         id="stop1" />
+      <stop
+         offset="100%"
+         stop-color="#40A578"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <rect
+     width="628.49084"
+     height="864.17493"
+     fill="url(#bgGradient)"
+     id="rect2"
+     style="fill:url(#bgGradient);stroke-width:0.785614"
+     x="95.726028"
+     y="124.1447" />
+  <circle
+     cx="612.45264"
+     cy="692.72351"
+     r="27.496475"
+     fill="#2e8b57"
+     id="circle5-9"
+     style="stroke-width:0.785614" />
+  <circle
+     cx="559.68207"
+     cy="694.98871"
+     r="27.496475"
+     fill="#2e8b57"
+     id="circle5-8"
+     style="stroke-width:0.785614" />
+  <!-- Earth -->
+  <circle
+     cx="409.97147"
+     cy="477.67084"
+     r="117.84203"
+     fill="#3fa9f5"
+     stroke="#0d3b66"
+     stroke-width="4"
+     id="circle2" />
+  <!-- Continents -->
+  <path
+     d="m 378.54692,422.67786 q 31.42454,-7.85614 47.13681,15.71227 7.85614,15.71227 -15.71227,23.56841 -15.71227,7.85613 -31.42454,0 z"
+     fill="#3cb043"
+     id="path2"
+     style="stroke-width:0.785614" />
+  <path
+     d="m 441.39601,501.23922 q 15.71227,7.85613 23.5684,23.5684 -15.71227,7.85614 -31.42454,-7.85613 z"
+     fill="#3cb043"
+     id="path3"
+     style="stroke-width:0.785614" />
+  <path
+     d="m 386.40306,516.95149 q 15.71227,15.71227 23.5684,31.42454 -23.5684,-7.85613 -31.42454,-23.56841 z"
+     fill="#3cb043"
+     id="path4"
+     style="stroke-width:0.785614" />
+  <!-- Trees -->
+  <rect
+     x="582.80646"
+     y="689.7865"
+     width="15.712272"
+     height="47.136814"
+     fill="#8b4513"
+     id="rect5"
+     style="stroke-width:0.785614" />
+  <ellipse
+     cx="588.05133"
+     cy="663.62927"
+     fill="#2e8b57"
+     id="circle5"
+     rx="36.374687"
+     ry="35.85244"
+     style="stroke-width:1.03179" />
+  <!-- Sun -->
+  <circle
+     cx="189.99966"
+     cy="241.98674"
+     r="47.136814"
+     fill="#ffd700"
+     stroke="#ffa500"
+     stroke-width="3"
+     id="circle7" />
+  <!-- Decorative leaves -->
+  <!-- Title Text -->
+  <text
+     x="409.97147"
+     y="831.1969"
+     font-family="Poppins, sans-serif"
+     font-size="31.4245px"
+     text-anchor="middle"
+     fill="#0d3b66"
+     font-weight="bold"
+     id="text8"
+     style="stroke-width:0.785614">World Environment Day</text>
+  <text
+     x="409.97147"
+     y="870.4776"
+     font-family="Poppins, sans-serif"
+     font-size="21.9972px"
+     text-anchor="middle"
+     fill="#14532d"
+     id="text9"
+     style="stroke-width:0.785614">Save Our Planet 🌎</text>
+  <!-- Footer Line -->
+  <line
+     x1="213.56805"
+     y1="894.04602"
+     x2="606.37488"
+     y2="894.04602"
+     stroke="#0d3b66"
+     stroke-width="3"
+     id="line9" />
+  <circle
+     cx="404.29816"
+     cy="717.27679"
+     r="27.496475"
+     fill="#2e8b57"
+     id="circle5-9-2"
+     style="stroke-width:0.785614" />
+  <circle
+     cx="351.52756"
+     cy="719.54205"
+     r="27.496475"
+     fill="#2e8b57"
+     id="circle5-8-4"
+     style="stroke-width:0.785614" />
+  <rect
+     x="374.65198"
+     y="714.33978"
+     width="15.712272"
+     height="47.136814"
+     fill="#8b4513"
+     id="rect5-5"
+     style="stroke-width:0.785614" />
+  <ellipse
+     cx="379.89685"
+     cy="688.18256"
+     fill="#2e8b57"
+     id="circle5-5"
+     rx="36.374687"
+     ry="35.85244"
+     style="stroke-width:1.03179" />
+  <circle
+     cx="248.27008"
+     cy="637.01691"
+     r="27.496475"
+     fill="#2e8b57"
+     id="circle5-9-7"
+     style="stroke-width:0.785614" />
+  <circle
+     cx="195.49948"
+     cy="639.2821"
+     r="27.496475"
+     fill="#2e8b57"
+     id="circle5-8-1"
+     style="stroke-width:0.785614" />
+  <rect
+     x="218.6239"
+     y="634.07983"
+     width="15.712272"
+     height="47.136814"
+     fill="#8b4513"
+     id="rect5-1"
+     style="stroke-width:0.785614" />
+  <ellipse
+     cx="223.86877"
+     cy="607.92261"
+     fill="#2e8b57"
+     id="circle5-52"
+     rx="36.374687"
+     ry="35.85244"
+     style="stroke-width:1.03179" />
+  <circle
+     cx="600.23248"
+     cy="255.14241"
+     r="27.496475"
+     fill="#2e8b57"
+     id="circle5-9-6"
+     style="fill:#fafdfb;fill-opacity:1;stroke-width:0.785614" />
+  <circle
+     cx="529.70544"
+     cy="259.49661"
+     r="27.496475"
+     fill="#2e8b57"
+     id="circle5-8-14"
+     style="fill:#f6fcf8;fill-opacity:1;stroke-width:0.785614" />
+  <ellipse
+     cx="571.6532"
+     cy="244.84904"
+     fill="#2e8b57"
+     id="circle5-3"
+     rx="36.374687"
+     ry="35.85244"
+     style="fill:#f3fbf7;fill-opacity:1;stroke-width:1.03179" />
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="794" height="1123" viewBox="0 0 794 1123">
+  <!-- Background -->
+  <rect width="794" height="1123" fill="#ffffff"/>
+
+  <!-- ===== HEADER ===== -->
+  <rect x="0" y="0" width="794" height="90" fill="#1E90FF"/>
+  <line x1="0" y1="90" x2="794" y2="90" stroke="#003366" stroke-width="3"/>
+
+  <!-- Logo -->
+  <rect x="40" y="15" width="55" height="55" rx="8" fill="#ffffff" stroke="#003366" stroke-width="2"/>
+  <text x="67" y="50" text-anchor="middle" font-size="12" font-family="Arial" fill="#003366">LOGO</text>
+
+  <!-- Company Name + Tagline -->
+  <text x="120" y="45" font-family="Georgia" font-size="26" fill="#ffffff" font-weight="bold">BlueWave Solutions Pvt. Ltd.</text>
+  <text x="120" y="70" font-family="Arial" font-size="14" fill="#dceeff">Innovating for a Better Future</text>
+
+  <!-- ===== BODY TEXT ===== -->
+  <text x="80" y="140" font-family="Georgia" font-size="14" fill="#000000">
+    <tspan x="80" dy="0">Date: October 14, 2025</tspan>
+    <tspan x="80" dy="30">To,</tspan>
+    <tspan x="80" dy="20">The Manager,</tspan>
+    <tspan x="80" dy="20">ABC Enterprises,</tspan>
+    <tspan x="80" dy="20">New Delhi, India.</tspan>
+
+    <tspan x="80" dy="30" font-weight="bold">Subject: Request for Collaboration on Upcoming Project</tspan>
+
+    <tspan x="80" dy="30">Dear Sir/Madam,</tspan>
+
+    <tspan x="80" dy="25">We are pleased to introduce ourselves as BlueWave Solutions Pvt. Ltd.,</tspan>
+    <tspan x="80" dy="20">a leading software and technology company specializing in enterprise automation</tspan>
+    <tspan x="80" dy="20">and digital transformation.</tspan>
+
+    <tspan x="80" dy="20">We would like to express our interest in collaborating with your organization</tspan>
+    <tspan x="80" dy="20">for the upcoming Smart Automation Project. Our team is confident that our expertise</tspan>
+    <tspan x="80" dy="20">in software development, UI/UX design, and cloud integration will add significant</tspan>
+    <tspan x="80" dy="20">value to your initiative.</tspan>
+
+    <tspan x="80" dy="20">We look forward to discussing the project details further and exploring ways we</tspan>
+    <tspan x="80" dy="20">can work together to achieve mutual success.</tspan>
+
+    <tspan x="80" dy="20">Kindly let us know a convenient time for a meeting to discuss this proposal in</tspan>
+    <tspan x="80" dy="20">detail.</tspan>
+
+    <tspan x="80" dy="30">Thank you for your consideration.</tspan>
+    <tspan x="80" dy="30">Yours faithfully,</tspan>
+
+    <tspan x="80" dy="25">(Signature)</tspan>
+    <tspan x="80" dy="25">Mr. John Doe</tspan>
+    <tspan x="80" dy="20">Business Development Manager</tspan>
+  </text>
+
+  <!-- ===== FOOTER ===== -->
+  <line x1="0" y1="1040" x2="794" y2="1040" stroke="#003366" stroke-width="3"/>
+  <rect x="0" y="1040" width="794" height="83" fill="#1E90FF"/>
+
+  <text x="397" y="1080" text-anchor="middle" font-family="Arial" font-size="13" fill="#ffffff">
+    📍 12 Corporate Park, Bangalore | ☎ +91 9876543210 | ✉ info@bluewave.com | 🌐 www.bluewave.com
+  </text>
+</svg>

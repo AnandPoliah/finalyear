@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <!-- Background -->
+  <rect width="600" height="600" fill="#f8f8f8"/>
+
+  <!-- Butterfly Body -->
+  <rect x="295" y="200" width="10" height="200" fill="#4B3621" rx="5"/>
+
+  <!-- Left Wing Upper -->
+  <path d="M300 250 
+           C180 100, 100 300, 300 300"
+        fill="#FF69B4" stroke="#C71585" stroke-width="3"/>
+  <!-- Left Wing Lower -->
+  <path d="M300 350 
+           C180 500, 100 400, 300 300"
+        fill="#FFB6C1" stroke="#C71585" stroke-width="3"/>
+
+  <!-- Right Wing Upper -->
+  <path d="M300 250 
+           C420 100, 500 300, 300 300"
+        fill="#FF69B4" stroke="#C71585" stroke-width="3"/>
+  <!-- Right Wing Lower -->
+  <path d="M300 350 
+           C420 500, 500 400, 300 300"
+        fill="#FFB6C1" stroke="#C71585" stroke-width="3"/>
+
+  <!-- Wing Details -->
+  <circle cx="220" cy="220" r="10" fill="#FFD700"/>
+  <circle cx="230" cy="280" r="8" fill="#FFD700"/>
+  <circle cx="380" cy="220" r="10" fill="#FFD700"/>
+  <circle cx="370" cy="280" r="8" fill="#FFD700"/>
+
+  <!-- Antennae -->
+  <path d="M300 200 Q290 170, 280 150" stroke="#4B3621" stroke-width="3" fill="none"/>
+  <path d="M310 200 Q320 170, 330 150" stroke="#4B3621" stroke-width="3" fill="none"/>
+  <circle cx="280" cy="150" r="5" fill="#4B3621"/>
+  <circle cx="330" cy="150" r="5" fill="#4B3621"/>
+</svg>

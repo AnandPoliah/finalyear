@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="svgviewer-output (6).svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.55717395"
+     inkscape:cx="889.30934"
+     inkscape:cy="584.19816"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <!-- Background -->
+  <rect
+     width="1920"
+     height="1080"
+     fill="#f0f8ff"
+     id="rect1" />
+  <!-- Decorative Top Banner -->
+  <polygon
+     points="1920,180 0,100 0,0 1920,0 "
+     fill="#4682b4"
+     opacity="0.85"
+     id="polygon1"
+     transform="scale(1,1.3243243)" />
+  <!-- Decorative Bottom Wave -->
+  <path
+     d="M0,950 Q480,1020 960,950 T1920,950 L1920,1080 L0,1080 Z"
+     fill="#1E90FF"
+     opacity="0.6"
+     id="path1" />
+  <!-- Simple Circular Logo -->
+  <circle
+     cx="157.79083"
+     cy="128.7074"
+     r="82.720894"
+     fill="#ffffff"
+     stroke="#003366"
+     stroke-width="5.51473"
+     id="circle1" />
+  <text
+     x="157.79083"
+     y="149.38762"
+     font-family="'Arial Black', sans-serif"
+     font-size="55.1473px"
+     text-anchor="middle"
+     fill="#003366"
+     id="text1"
+     style="stroke-width:1.37868">ATS</text>
+  <!-- Company Name beside logo -->
+  <text
+     x="359.83475"
+     y="125.13565"
+     font-family="Calibri, sans-serif"
+     font-size="60.7104px"
+     text-anchor="start"
+     fill="#ffffff"
+     id="text2"
+     style="stroke-width:1.6864"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Elephant;-inkscape-font-specification:Elephant;stroke-width:1.6864"
+       id="tspan5">ANAND TECH SOLUTIONS Pvt. Ltd.</tspan></text>
+  <!-- Title Placeholder -->
+  <text
+     x="937.2373"
+     y="537.57916"
+     font-family="Calibri, sans-serif"
+     font-size="104.66px"
+     text-anchor="middle"
+     fill="#003366"
+     id="text3"
+     style="stroke-width:1.63531"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Elephant;-inkscape-font-specification:Elephant;stroke-width:1.63531"
+       id="tspan6">The Future with AI</tspan></text>
+  <!-- Subtitle Placeholder -->
+  <text
+     x="940.55396"
+     y="623.49017"
+     font-family="Calibri, sans-serif"
+     font-size="43.1419px"
+     text-anchor="middle"
+     fill="#00509e"
+     id="text4"
+     style="stroke-width:1.19839"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Elephant;-inkscape-font-specification:Elephant;stroke-width:1.19839"
+       id="tspan7">Your PROBLEMS our SOLUTIONS</tspan></text>
+  <!-- Footer bar -->
+  <rect
+     x="0"
+     y="1020"
+     width="1920"
+     height="60"
+     fill="#003366"
+     id="rect4" />
+  <text
+     x="1075.0192"
+     y="1061.0017"
+     font-family="sans-serif"
+     font-size="24px"
+     text-anchor="end"
+     fill="#ffffff"
+     id="text5-9-8">anandtechsolutions@gmail.com</text>
+  <text
+     x="1423.5087"
+     y="1060.118"
+     font-family="sans-serif"
+     font-size="24px"
+     text-anchor="end"
+     fill="#ffffff"
+     id="text5-9">Phno: +91 99999 99999</text>
+  <text
+     x="1820"
+     y="1060"
+     font-family="sans-serif"
+     font-size="24px"
+     text-anchor="end"
+     fill="#ffffff"
+     id="text5">www.AnandTechSolutions.net</text>
+</svg>

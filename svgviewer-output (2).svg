@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#FFF0F5"/>
+
+  <!-- Outer border -->
+  <rect x="15" y="15" width="770" height="570" fill="none" stroke="#C71585" stroke-width="6" rx="20" ry="20"/>
+
+  <!-- Header decoration -->
+  <circle cx="400" cy="80" r="50" fill="#FFC0CB" stroke="#C71585" stroke-width="3"/>
+  <text x="400" y="90" font-family="serif" font-size="28" text-anchor="middle" fill="#C71585">❤️</text>
+
+  <!-- Invitation Title -->
+  <text x="400" y="160" font-family="cursive" font-size="34" text-anchor="middle" fill="#C71585">
+    You're Invited
+  </text>
+
+  <!-- Names -->
+  <text x="400" y="220" font-family="cursive" font-size="30" text-anchor="middle" fill="#8B008B">
+    Rasappan and Sankari
+  </text>
+
+  <!-- Date -->
+  <text x="400" y="270" font-family="serif" font-size="22" text-anchor="middle" fill="#4B0082">
+    November 15, 2025
+  </text>
+
+  <!-- Venue -->
+  <text x="400" y="310" font-family="serif" font-size="20" text-anchor="middle" fill="#4B0082">
+    SKCET, Kuniamuthur
+  </text>
+
+  <!-- Decorative heart line -->
+  <path d="M200,350 Q400,420 600,350" fill="none" stroke="#C71585" stroke-width="3"/>
+  <path d="M200,355 Q400,425 600,355" fill="none" stroke="#C71585" stroke-width="1"/>
+
+  <!-- Message -->
+  <text x="400" y="400" font-family="serif" font-size="20" text-anchor="middle" fill="#8B008B">
+    "A love story written in the stars."
+  </text>
+
+  <!-- Footer decoration -->
+  <ellipse cx="400" cy="500" rx="160" ry="50" fill="#FFC0CB" stroke="#C71585" stroke-width="3"/>
+  <text x="400" y="505" font-family="serif" font-size="18" text-anchor="middle" fill="#C71585">
+    Join us for our special day!
+  </text>
+</svg>
